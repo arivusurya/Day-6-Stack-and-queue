@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/bin/Debug/net7.0/Day-6-Stack-and-queue
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/bin/Debug/net7.0/Day-6-Stack-and-queue.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/bin/Debug/net7.0/Day-6-Stack-and-queue.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/bin/Debug/net7.0/Day-6-Stack-and-queue.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/bin/Debug/net7.0/Day-6-Stack-and-queue.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/refint/Day-6-Stack-and-queue.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/Day-6-Stack-and-queue.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day-6-statck-and-Queue/Day-6-Stack-and-queue/obj/Debug/net7.0/ref/Day-6-Stack-and-queue.dll
