@@ -7,13 +7,24 @@ namespace Day_6_Stack_and_queue
     {
         public static void Main(string[] args)
         {
-            Stack stack = new Stack();
-            stack.Push(70);
-            stack.Push(30);
-            stack.Push(56);
-            stack.Peek();
-            stack.Pop();
-            stack.Display();
+            // Stack stack = new Stack();
+            // stack.Push(70);
+            // stack.Push(30);
+            // stack.Push(56);
+            // stack.Peek();
+            // stack.Pop();
+            // stack.Display();
+
+            Queue queue = new Queue();
+            queue.enqueue(56);
+            queue.enqueue(30);
+            queue.enqueue(70);
+            queue.dequeue();
+            queue.Display();
+                        
+
+
+
 
         }
     }
