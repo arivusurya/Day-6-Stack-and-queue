@@ -20,6 +20,24 @@ namespace Day_6_Stack_and_queue
             }
         }
 
+        public void Peek(){
+            if(Top == null){
+                System.Console.WriteLine("List is empty");
+            }else{
+                System.Console.WriteLine("Top element is " + Top.data);
+            }
+        }
+
+        public void Pop(){
+            if(Top == null){
+                System.Console.WriteLine("List is empty");
+            }else{
+                int removedvalue = Top.data;
+                Top = Top.next;
+                System.Console.WriteLine("{0} is removed", removedvalue);
+            }
+
+        }
         public void Display(){
             if(Top == null){
                 System.Console.WriteLine("List is empty");
